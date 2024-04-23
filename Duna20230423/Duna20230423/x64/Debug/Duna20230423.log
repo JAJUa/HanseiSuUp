@@ -1,4 +1,3 @@
 ﻿  디오니소스.cpp
-D:\M3113JJA\Duna20230423\Duna20230423\디오니소스.cpp(8,2): error C3861: 'EnterLobby': 식별자를 찾을 수 없습니다.
-D:\M3113JJA\Duna20230423\Duna20230423\디오니소스.cpp(14,2): error C3861: 'SelectPlayer': 식별자를 찾을 수 없습니다.
-D:\M3113JJA\Duna20230423\Duna20230423\디오니소스.cpp(51,2): error C3861: 'EnterField': 식별자를 찾을 수 없습니다.
+D:\M3113JJA\Github\HanseiSuUp\Duna20230423\Duna20230423\디오니소스.cpp(106,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Duna20230423.vcxproj -> D:\M3113JJA\Github\HanseiSuUp\Duna20230423\x64\Debug\Duna20230423.exe
